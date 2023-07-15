@@ -10,7 +10,7 @@
 Инструкция к программе:
 Вводим в строку нужное нам число, и жмем кнопку "enter". Для возврата используем
 команду "back".
-![Image alt](https://github.com/pkhramov11/explorerFolders/raw/master/pic2.JPG)
+![Image alt](https://github.com/pkhramov11/explorerFolders/raw/master/pic2JPG.JPG)
 
 Инструкция к по запуску программы:
 В корне проекта по адресу "explorerFolders\out\artifacts\explorerFolders_jar\" находится файл с расширением ".jar".
