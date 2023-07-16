@@ -13,6 +13,6 @@
 ![Image alt](https://github.com/pkhramov11/explorerFolders/raw/master/pic2JPG.JPG)
 
 Инструкция к по запуску программы:
-В корне проекта по адресу "explorerFolders\out\artifacts\explorerFolders_jar\" находится файл с расширением ".jar".
+В корне проекта по адресу "explorerFolders\explorerFolders_jar\" находится файл с расширением ".jar".
 Для запуска jar файла в командной строке используйте следующий синтаксис:
 java -jar "***абсолюный путь к папке с проектом***\explorerFolders\out\artifacts\explorerFolders_jar\explorerFolders.jar".
